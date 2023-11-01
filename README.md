@@ -1,2 +1,3 @@
 # learn-shell
-learn01
+
+Expense project creation
