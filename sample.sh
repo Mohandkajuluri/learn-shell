@@ -1,7 +1,7 @@
 
-echo Hello world
+echo -e "\e[32m Hello world \e[0m"
 
-#color syntax
+#color syntax echo -e "\e[colm msg \e[0m"
 
 echo -e "\e[31m This text is in RED color \e[0m"
 echo -e "\e[32m This text is in GREEN color \e[0m"
